@@ -1,7 +1,7 @@
 
 import  {useState } from 'react'
 import { AddCategoey } from './AddCategoey';
-import GifGrid from './componenets/GifGrid';
+import { GifGrid } from './componenets';
 
 
 

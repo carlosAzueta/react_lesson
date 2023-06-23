@@ -12,6 +12,7 @@ const onSubmit = (event) => {
     event.preventDefault();
     if(inputValue.trim().length <= 0) return;
 
+
     //console.log(inputValue);
     onNewCategory(inputValue)
     //setCategories((categories) => [inputValue, ...categories]);
